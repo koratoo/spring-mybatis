@@ -14,3 +14,6 @@
 ![슬라이드12](https://user-images.githubusercontent.com/96603612/208574902-6184383b-0f98-4f93-acc5-60ea3473f000.PNG)
 ![슬라이드13](https://user-images.githubusercontent.com/96603612/208574908-7334d3f8-3f0f-4c00-9a4e-af99313ab4f3.PNG)
 ![슬라이드14](https://user-images.githubusercontent.com/96603612/208574914-1a8d7120-0b21-4fb1-b3b9-621b83d559ee.PNG)
+<br>
+1.환경 설정 : https://blog.naver.com/lears98/222933338810
+2.롬복 설치 : https://blog.naver.com/lears98/222934314196
