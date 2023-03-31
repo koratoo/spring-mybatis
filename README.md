@@ -1,4 +1,10 @@
 # spring-mybatis
+1.환경 설정 : https://blog.naver.com/lears98/222933338810<br>
+2.롬복 설치 : https://blog.naver.com/lears98/222934314196<br>
+3.XML을 이용한 환경 설정 : https://blog.naver.com/lears98/222934400114<br>
+4.데이터 베이스 연결 테스트 : https://blog.naver.com/lears98/222934840405<br>
+5.커넥션 풀 설정 : https://blog.naver.com/lears98/222934866610<br>
+6.마이바티스와 연동 : https://blog.naver.com/lears98/222934906036<br>
 
 ![슬라이드1](https://user-images.githubusercontent.com/96603612/208574834-71a75c66-a662-4043-90e7-bdb4cce77660.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/96603612/208574846-d3ce34ed-9e7e-4152-a69f-9f9f9b2d3a78.PNG)
@@ -15,5 +21,4 @@
 ![슬라이드13](https://user-images.githubusercontent.com/96603612/208574908-7334d3f8-3f0f-4c00-9a4e-af99313ab4f3.PNG)
 ![슬라이드14](https://user-images.githubusercontent.com/96603612/208574914-1a8d7120-0b21-4fb1-b3b9-621b83d559ee.PNG)
 <br>
-1.환경 설정 : https://blog.naver.com/lears98/222933338810
-2.롬복 설치 : https://blog.naver.com/lears98/222934314196
+
