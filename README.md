@@ -14,6 +14,21 @@
 10.목록, 등록화면 구현 : https://blog.naver.com/lears98/222936426158<br>
 11.한글필터, 상세보기 화면 : https://blog.naver.com/lears98/222936716125<br>
 12.수정,삭제기능 구현 : https://blog.naver.com/lears98/222936756377<br>
+### 페이징 처리 / 검색처리
+13.페이징 처리1 : https://blog.naver.com/lears98/222937379171<br>
+14.페이징 처리2 : https://blog.naver.com/lears98/222937542969<br>
+15.검색 처리 : https://blog.naver.com/lears98/222937586517<br>
+### REST방식으로 댓글처리
+16.REST방식으로 전환 : https://blog.naver.com/lears98/222937988189<br>
+17.댓글처리CRUD 테스트 : https://blog.naver.com/lears98/222937994867<br>
+18.댓글처리Controller : https://blog.naver.com/lears98/222938394644<br>
+19.댓글페이징 에러 : https://blog.naver.com/lears98/222939001296<br>
+20.모달 추가 : https://blog.naver.com/lears98/222939546188<br>
+21.상세보기 기능 : https://blog.naver.com/lears98/222939937103<br>
+### AOP
+22.AOP관련 : https://blog.naver.com/lears98/222940763968<br>
+### 기타에러
+https://blog.naver.com/lears98/222939891318<br>
 
 ![슬라이드1](https://user-images.githubusercontent.com/96603612/208574834-71a75c66-a662-4043-90e7-bdb4cce77660.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/96603612/208574846-d3ce34ed-9e7e-4152-a69f-9f9f9b2d3a78.PNG)
